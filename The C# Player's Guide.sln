@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello, World!", "Hello, World!\Hello, World!.csproj", "{B76970CD-262A-42F2-91CF-3A716D0A712D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.1 - Hello, World!", "Hello, World!\3.1 - Hello, World!.csproj", "{B76970CD-262A-42F2-91CF-3A716D0A712D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "What Comes Next", "What Comes Next\What Comes Next.csproj", "{8D09C353-5FD2-486A-A9A4-21AD1DCC98E2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.2 - What Comes Next", "What Comes Next\3.2 - What Comes Next.csproj", "{8D09C353-5FD2-486A-A9A4-21AD1DCC98E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Makings of a Programmer", "The Makings of a Programmer\The Makings of a Programmer.csproj", "{826F99CA-D22A-47D0-B0B0-FC768D29E1C4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.3 - The Makings of a Programmer", "The Makings of a Programmer\3.3 - The Makings of a Programmer.csproj", "{826F99CA-D22A-47D0-B0B0-FC768D29E1C4}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Level 3", "Level 3", "{A2FCCCA2-CBDE-4706-BFC7-AF0D72E935AA}"
 EndProject
