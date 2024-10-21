@@ -1,4 +1,10 @@
-﻿namespace WhatComesNext
+﻿/* Objectives:
+ * 
+ * Change your program to say something besides "Hello, World!"
+ * 
+ * **/
+
+namespace WhatComesNext
 {
     internal class Program
     {
