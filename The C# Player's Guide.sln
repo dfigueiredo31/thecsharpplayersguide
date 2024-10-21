@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello, World!", "Hello, Wor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "What Comes Next", "What Comes Next\What Comes Next.csproj", "{8D09C353-5FD2-486A-A9A4-21AD1DCC98E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Makings of a Programmer", "The Makings of a Programmer\The Makings of a Programmer.csproj", "{826F99CA-D22A-47D0-B0B0-FC768D29E1C4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Level 3", "Level 3", "{A2FCCCA2-CBDE-4706-BFC7-AF0D72E935AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,9 +25,18 @@ Global
 		{8D09C353-5FD2-486A-A9A4-21AD1DCC98E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D09C353-5FD2-486A-A9A4-21AD1DCC98E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D09C353-5FD2-486A-A9A4-21AD1DCC98E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{826F99CA-D22A-47D0-B0B0-FC768D29E1C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{826F99CA-D22A-47D0-B0B0-FC768D29E1C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{826F99CA-D22A-47D0-B0B0-FC768D29E1C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{826F99CA-D22A-47D0-B0B0-FC768D29E1C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B76970CD-262A-42F2-91CF-3A716D0A712D} = {A2FCCCA2-CBDE-4706-BFC7-AF0D72E935AA}
+		{8D09C353-5FD2-486A-A9A4-21AD1DCC98E2} = {A2FCCCA2-CBDE-4706-BFC7-AF0D72E935AA}
+		{826F99CA-D22A-47D0-B0B0-FC768D29E1C4} = {A2FCCCA2-CBDE-4706-BFC7-AF0D72E935AA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {678CBF19-A7C2-4DD5-9ACA-457367EF4938}
