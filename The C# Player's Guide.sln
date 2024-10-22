@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.1 - Hello, World!", "Hello, World!\3.1 - Hello, World!.csproj", "{B76970CD-262A-42F2-91CF-3A716D0A712D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.1 - Hello, World!", "Hello, World!\3.1 - Hello, World!.csproj", "{B76970CD-262A-42F2-91CF-3A716D0A712D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.2 - What Comes Next", "What Comes Next\3.2 - What Comes Next.csproj", "{8D09C353-5FD2-486A-A9A4-21AD1DCC98E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.2 - What Comes Next", "What Comes Next\3.2 - What Comes Next.csproj", "{8D09C353-5FD2-486A-A9A4-21AD1DCC98E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.3 - The Makings of a Programmer", "The Makings of a Programmer\3.3 - The Makings of a Programmer.csproj", "{826F99CA-D22A-47D0-B0B0-FC768D29E1C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.3 - The Makings of a Programmer", "The Makings of a Programmer\3.3 - The Makings of a Programmer.csproj", "{826F99CA-D22A-47D0-B0B0-FC768D29E1C4}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Level 3", "Level 3", "{A2FCCCA2-CBDE-4706-BFC7-AF0D72E935AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.4 - Consolas and Telim", "Consolas and Telim\3.4 - Consolas and Telim.csproj", "{294B1640-3088-41AE-8D0D-AB9E9F133A58}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,6 +31,10 @@ Global
 		{826F99CA-D22A-47D0-B0B0-FC768D29E1C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{826F99CA-D22A-47D0-B0B0-FC768D29E1C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{826F99CA-D22A-47D0-B0B0-FC768D29E1C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{294B1640-3088-41AE-8D0D-AB9E9F133A58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{294B1640-3088-41AE-8D0D-AB9E9F133A58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{294B1640-3088-41AE-8D0D-AB9E9F133A58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{294B1640-3088-41AE-8D0D-AB9E9F133A58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -37,6 +43,7 @@ Global
 		{B76970CD-262A-42F2-91CF-3A716D0A712D} = {A2FCCCA2-CBDE-4706-BFC7-AF0D72E935AA}
 		{8D09C353-5FD2-486A-A9A4-21AD1DCC98E2} = {A2FCCCA2-CBDE-4706-BFC7-AF0D72E935AA}
 		{826F99CA-D22A-47D0-B0B0-FC768D29E1C4} = {A2FCCCA2-CBDE-4706-BFC7-AF0D72E935AA}
+		{294B1640-3088-41AE-8D0D-AB9E9F133A58} = {A2FCCCA2-CBDE-4706-BFC7-AF0D72E935AA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {678CBF19-A7C2-4DD5-9ACA-457367EF4938}
