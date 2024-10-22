@@ -4,7 +4,6 @@
  * 
  * **/
 
-
 namespace Consolas_and_Telim
 {
     internal class Program

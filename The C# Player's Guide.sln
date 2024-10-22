@@ -13,6 +13,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Level 3", "Level 3", "{A2FC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.4 - Consolas and Telim", "Consolas and Telim\3.4 - Consolas and Telim.csproj", "{294B1640-3088-41AE-8D0D-AB9E9F133A58}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Level 4", "Level 4", "{79AA4BEC-9C70-4919-ACD6-C0BF53EB0F0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.1 - The Thing Namer 3000", "The Thing Namer 3000\4.1 - The Thing Namer 3000.csproj", "{1320BACC-18DC-4D51-9357-15E91E6656C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +39,10 @@ Global
 		{294B1640-3088-41AE-8D0D-AB9E9F133A58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{294B1640-3088-41AE-8D0D-AB9E9F133A58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{294B1640-3088-41AE-8D0D-AB9E9F133A58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1320BACC-18DC-4D51-9357-15E91E6656C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1320BACC-18DC-4D51-9357-15E91E6656C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1320BACC-18DC-4D51-9357-15E91E6656C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1320BACC-18DC-4D51-9357-15E91E6656C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -44,6 +52,7 @@ Global
 		{8D09C353-5FD2-486A-A9A4-21AD1DCC98E2} = {A2FCCCA2-CBDE-4706-BFC7-AF0D72E935AA}
 		{826F99CA-D22A-47D0-B0B0-FC768D29E1C4} = {A2FCCCA2-CBDE-4706-BFC7-AF0D72E935AA}
 		{294B1640-3088-41AE-8D0D-AB9E9F133A58} = {A2FCCCA2-CBDE-4706-BFC7-AF0D72E935AA}
+		{1320BACC-18DC-4D51-9357-15E91E6656C8} = {79AA4BEC-9C70-4919-ACD6-C0BF53EB0F0D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {678CBF19-A7C2-4DD5-9ACA-457367EF4938}
