@@ -6,7 +6,7 @@
         {
             double tArea, tBase, tHeight;
 
-            Console.WriteLine(":::::: Triangle Area Calculator ::::::");
+            Console.WriteLine("::::: Triangle Area Calculator :::::");
             
             Console.WriteLine("Enter triangle base: ");
             while(!double.TryParse(Console.ReadLine(), out tBase))
