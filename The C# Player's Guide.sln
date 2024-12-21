@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.1 - The Triangle Farmer",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.2 - The Four Sisters and the Duckbear", "7.2 - The Four Sisters and the Duckbear\7.2 - The Four Sisters and the Duckbear.csproj", "{8375EBB2-3921-4EDA-B762-5D07FD838A6C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.3 - The Dominion of Kings", "7.3 - The Dominion of Kings\7.3 - The Dominion of Kings.csproj", "{9F6871B8-1358-4750-8270-6681F6E2B271}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -71,6 +73,10 @@ Global
 		{8375EBB2-3921-4EDA-B762-5D07FD838A6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8375EBB2-3921-4EDA-B762-5D07FD838A6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8375EBB2-3921-4EDA-B762-5D07FD838A6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F6871B8-1358-4750-8270-6681F6E2B271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F6871B8-1358-4750-8270-6681F6E2B271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F6871B8-1358-4750-8270-6681F6E2B271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F6871B8-1358-4750-8270-6681F6E2B271}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -85,6 +91,7 @@ Global
 		{2AE11FAD-A2AA-41D2-81A8-F0FCB08D47DB} = {92FCDF8A-055A-4077-8871-606B362898AE}
 		{DD3B94A1-0A3B-4491-B157-188C651A1DFC} = {37EE5D88-635F-482D-9E4D-C8A00BC1AC6C}
 		{8375EBB2-3921-4EDA-B762-5D07FD838A6C} = {37EE5D88-635F-482D-9E4D-C8A00BC1AC6C}
+		{9F6871B8-1358-4750-8270-6681F6E2B271} = {37EE5D88-635F-482D-9E4D-C8A00BC1AC6C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {678CBF19-A7C2-4DD5-9ACA-457367EF4938}
